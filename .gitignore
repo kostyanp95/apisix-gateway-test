@@ -5,3 +5,4 @@ how
 apisix_log/access.log
 apisix_log/error.log
 apisix_log/nginx.pid
+etcd_data/member
