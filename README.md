@@ -1,4 +1,4 @@
-# APISix Gateway with Dashboard, Prometheus, Grafana and hardware monitoring.
+# APISix Gateway with Dashboard, Prometheus, Grafana and hardware monitoring using node_exporter and cAdvisor.
 
 ## How to run test?
 * `docker-compose up -d` - just run only [APISix Gateway](https://apisix.apache.org/) with [APISix Dashboard](https://apisix.apache.org/docs/dashboard/USER_GUIDE).
