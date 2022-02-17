@@ -1,5 +1,5 @@
 # Project exclude paths
-/app/node_modules/
+/requsets/node_modules/
 .idea
 apisix-gateway.iml
 how
