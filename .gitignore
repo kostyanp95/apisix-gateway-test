@@ -3,5 +3,5 @@
 .idea
 apisix-gateway.iml
 how
-etcd_data
-apisix_log
+etcd_data/*
+apisix_log/*
