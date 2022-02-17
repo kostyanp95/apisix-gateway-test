@@ -1,2 +1,7 @@
 # Project exclude paths
 /app/node_modules/
+.idea
+apisix-gateway.iml
+how
+etcd_data
+apisix_log
