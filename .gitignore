@@ -1,7 +1,7 @@
 # Project exclude paths
-/requsets/node_modules/
 .idea
 apisix-gateway.iml
 how
-etcd_data/*
-apisix_log/*
+apisix_log/access.log
+apisix_log/error.log
+apisix_log/nginx.pid

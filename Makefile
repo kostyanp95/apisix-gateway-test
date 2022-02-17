@@ -1,5 +1,5 @@
 apisix-gateway:
-	docker-compose -p apisix-gateway up -d
+	docker-compose up -d
 
 hardware-monitor:
-	docker-compose -f docker-compose.hardware-monitoring.yml -p hardware-monitor up -d
+	docker-compose -f docker-compose.hardware-monitoring.yml -p hardware-monitor-apisix up -d
